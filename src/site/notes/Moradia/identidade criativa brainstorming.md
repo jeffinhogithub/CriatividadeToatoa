@@ -4,7 +4,7 @@
 
 --- 
 
-
+link p o repositorio: https://jeffinhogithub.github.io/CriativoToatoa
 ## Elementos Essenciais para a Criação de uma Obra
 
 A criação de uma obra robusta e com identidade forte, seja ela um livro, um filme, um jogo ou qualquer outra forma de arte, exige mais do que apenas uma boa ideia. É preciso uma estrutura sólida que garanta coerência e profundidade. Aqui está uma lista de elementos essenciais para um brainstorming detalhado, servindo como um modelo genérico para suas futuras criações.
